@@ -1,3 +1,5 @@
 # restaurant-p1-IFF-1099-andres-mendoza
 PRACTICA 1 DE LA ASIGNATURA PROGRAMACIÓN AMBIENTE CLIENTE SERVIDOR DE ANDRES MENDOZA
 HOLA
+
+Añado un archivo nuevo -Index
